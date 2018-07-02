@@ -2,12 +2,12 @@ import java.util.ArrayList;
 
 public class Course {
 	private String id;
-	private ArrayList<String> profs;
-	private ArrayList<Time> timePrefs; // times of day preferred by instructors
+	private String[] profs;
+	private ArrayList<Time> timePrefs;
 	private ArrayList<Day> days;
 	private int enrollment;
-	private Room room; // room assigned to the course
-	private ArrayList<Time> times; // times of day assigned to the course
+	private Room room;
+	private ArrayList<Time> times;
 
 	public enum Day {
 		MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY
@@ -17,7 +17,7 @@ public class Course {
 		MORNING, NOON, AFTERNOON
 	}
 
-	public Course(String id, ArrayList<String> profs, ArrayList<Time> timePrefs, ArrayList<Day> days,
+	public Course(String id, String[] profs, ArrayList<Time> timePrefs, ArrayList<Day> days,
 			int enrollment) {
 		this.id = id;
 		this.profs = profs;
@@ -30,7 +30,7 @@ public class Course {
 		return id;
 	}
 
-	public ArrayList<String> getProfs() {
+	public String[] getProfs() {
 		return profs;
 	}
 
@@ -54,11 +54,11 @@ public class Course {
 		this.room = room;
 	}
 	
-	public ArrayList<Times> getTimes() {
+	public ArrayList<Time> getTimes() {
 		return times;
 	}
 
-	public void setTimes(ArrayList<Times> times) {
+	public void setTimes(ArrayList<Time> times) {
 		this.times = times;
 	}
 }

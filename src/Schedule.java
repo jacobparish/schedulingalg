@@ -8,8 +8,9 @@ public class Schedule extends ArrayList<Course> {
 		int score = 0;
 		// Increment score for each course with fulfilled timePrefs
 		for (int i = 0; i < size(); i++){
-			if (get(i).getTimePrefs() == get(i).getTimes()){
-				score++;
+			if (get(i).getTimePrefs().contain(get(i).getTime())
+			    score++;
 		}
+		return score;
 	}
 }

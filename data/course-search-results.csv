@@ -1,0 +1,232 @@
+Course Num,Course Name,Instructor(s),Enrollment,Type,Credit Hrs,Morning,Noon,Afternoon,Monday,Tuesday,Wednesday,Thursday,Friday
+L6204-001,Administrative Law,G. Metzger,88,Lecture,4,0,0,1,1,0,0,0,0
+L9205-001,Adolescent Representation Clinic,J. Spinak,30,Clinic,7,1,1,1,1,1,1,1,1
+L6407-001,Advanced Constitutional Law: 1st Amendment,J. Kessler,65,Lecture,3,1,1,1,0,1,0,0,1
+L6202-001,Advanced Corporate Law: Mergers and Acquisitions,E. Talley,41,Lecture,4,1,0,0,1,1,0,1,1
+L6428-001,Advanced Criminal Law: Comparative and Theoretical Perspectives,G. Fletcher,70,Lecture,3,0,1,0,1,1,1,0,1
+L6581-001,"Advanced Family Law: Pre-Nups, Property Distribution, and Alimony in Divorce",P. Hennessey,30,Lecture,2,1,1,1,0,0,1,1,1
+L9259-001,Advanced Immigrants' Rights Clinic,E. Mukherjee,99,Clinic,1,0,1,0,1,0,0,0,0
+L6737-001,Advanced Torts,A. Porat,46,Lecture,2,1,1,0,1,1,0,1,0
+L6211-001,"African Legal Theory, Law and Development",F. Ssekandi,94,Lecture,3,0,0,1,0,0,1,1,1
+L6106-001,American Contract Law,J. Kraus,85,Lecture,3,1,1,0,1,1,1,0,0
+L6131-001,American Litigation Practice,J. Safer,60,Simulations,3,1,1,0,0,1,1,0,0
+L6125-001,Anthropology and the Law,L. Rosen,30,Lecture,2,1,0,1,1,0,1,0,1
+L6293-001,Antitrust and Trade Regulation,T. Wu,50,Lecture,3,0,1,1,1,1,0,0,1
+L8190-001,C. Intersectionalities Workshop,K. Crenshaw,30,Colloquia,2,0,0,0,0,1,0,0,1
+L9069-001,C. Law and Economics,V. Goldberg,92,Colloquia,1,0,0,1,1,0,1,0,1
+L8225-001,C. Law and Finance Theories,"K. Pistor, C. Kaplan",50,Colloquia,2,1,0,0,0,0,0,0,0
+L8049-001,C. Legal Theory Workshop,"A. Rapaczynski, J. Greene",90,Colloquia,1,0,1,0,1,1,0,0,0
+L8809-001,C. Racial Justice Advocacy Workshop,K. Franke,90,Colloquia,2,0,1,0,0,0,0,0,1
+L8372-001,C. Tax Policy,A. Raskolnikov,25,Colloquia,3,0,1,1,1,0,0,0,0
+L6101-001,Civil Procedure,O. Johnson,60,Lecture,4,1,1,1,1,1,0,1,0
+L6101-002,Civil Procedure,T. Lee,30,Lecture,4,1,1,0,0,1,1,1,1
+L6101-003,Civil Procedure,P. Genty,43,Lecture,4,0,0,1,0,0,1,0,0
+L6101-004,Civil Procedure,B. Huang,60,Lecture,4,1,0,0,1,0,0,1,0
+L6214-001,Civil Rights,K. Crenshaw,39,Lecture,3,1,0,1,1,1,1,0,0
+L6392-001,Commercial Finance,R. Mann,65,Lecture,4,1,1,0,1,0,1,1,0
+L9131-001,Community Enterprise Clinic,B. Schatz,51,Clinic,7,0,1,1,1,1,0,1,1
+L6942-001,Comparative Criminal Procedure,F. Davis,55,Lecture,3,0,0,0,0,0,0,0,1
+L6928-001,Complex Deal Structuring: Spin-offs and IPOs,D. Shefter,73,Lecture,3,1,1,1,1,1,0,0,0
+L6422-001,Conflict of Laws,H. Monaghan,83,Lecture,3,0,1,0,0,1,0,1,1
+L6133-001,Constitutional Law,W. Simon,65,Lecture,4,1,1,1,0,0,0,1,0
+L6133-002,Constitutional Law,C. Ponsa,93,Lecture,4,0,0,1,0,1,0,0,0
+L6133-003,Constitutional Law,J. Bulman-Pozen,40,Lecture,4,0,0,1,1,1,1,1,1
+L6133-004,Constitutional Law,P. Bobbitt,30,Lecture,4,0,0,1,1,1,0,1,1
+L6133-005,Constitutional Law,K. Thomas,80,Lecture,4,0,1,0,1,1,0,1,0
+L6133-006,Constitutional Law,P. Hamburger,60,Lecture,4,0,1,0,1,0,1,0,0
+L6105-001,Contracts,J. Kraus,85,Lecture,4,1,1,1,1,0,1,1,1
+L6105-002,Contracts,A. Katz,37,Lecture,4,0,1,0,1,0,0,1,0
+L6105-003,Contracts,C. Sanger,80,Lecture,4,0,1,0,1,0,0,0,0
+L6105-004,Contracts,E. Talley,85,Lecture,4,0,1,0,1,0,1,1,0
+L6105-005,Contracts,V. Goldberg,58,Lecture,4,0,1,0,1,1,1,1,1
+L6105-006,Contracts,E. Emens,59,Lecture,4,0,0,1,0,1,1,0,0
+L6105-007,Contracts,R. Brooks,70,Lecture,4,1,1,0,0,1,0,0,0
+L6341-001,Copyright Law,N. Elkin-Koren,40,Lecture,4,1,1,0,0,1,1,0,0
+L6232-001,Corporate Finance,E. Morrison,90,Lecture,3,1,0,0,1,0,0,0,1
+L6233-001,Corporate Reorganization and Bankruptcy,"M. Glenn, M. Gerber",90,Lecture,3,1,1,0,0,1,1,1,1
+L6231-001,Corporations,J. Armour,65,Lecture,4,0,1,1,1,1,1,1,1
+L6231-002,Corporations,J. McCrary,46,Lecture,4,0,1,1,0,1,1,0,0
+L6231-003,Corporations,C. Milhaupt,30,Lecture,4,0,1,1,1,0,1,1,0
+L6238-001,Criminal Adjudication,D. Richman,36,Lecture,3,1,1,1,0,0,1,1,1
+L6109-001,Criminal Investigations,D. Livingston,65,Lecture,3,1,0,1,0,1,1,1,0
+L6107-001,Deals,"R. Gilson, V. Goldberg",85,Simulations,4,0,0,1,1,0,0,1,1
+L9064-001,Derivatives Law and Regulation,"G. Kalbaugh, R. Molesworth",76,Lecture,2,1,0,0,1,0,0,1,0
+L8452-001,Energy Regulation,M. Gerrard,60,Lecture,2,0,1,0,0,1,0,1,0
+L6600-001,English Legal History,E. Moglen,70,Lecture,3,0,0,1,0,0,1,0,0
+L6242-001,Environmental Law,M. Gerrard,87,Lecture,3,1,1,1,0,1,0,0,0
+L9257-001,Environmental Law Clinic,"E. Lloyd, S. Kraham",93,Clinic,7,0,0,1,1,0,0,0,0
+L6249-001,European Union Law and Institutions,A. Bradford,70,Lecture,3,1,0,1,1,1,1,1,0
+L6241-001,Evidence,P. Shechtman,29,Lecture,3,1,0,1,1,1,0,0,1
+L6651-001,Externship: Advancing Social and Environmental Justice in the New York Attorney General’s Office,"M. Wagner, L. Landau",95,Externship,2,1,1,0,1,1,0,1,1
+L9265-001,Externship: Arts Law,"T. Silvers, M. Fowler-Williams",55,Externship,2,0,1,0,0,1,0,1,0
+L6792-001,Externship: Bronx Defenders on Holistic Defense,"S. Cumberbatch, A. Mathai",55,Externship,2,1,0,0,0,0,0,1,1
+L6656-001,Externship: Community Defense,"P. Jones, M. Knecht",55,Externship,2,0,1,0,0,1,0,1,0
+L6794-001,Externship: Copyright Dispute Resolution,"D. Marriott, D. Kappos",104,Externship,2,1,1,1,0,1,1,1,0
+L6663-001,Externship: Criminal Appeals,"C. Kaplan, M. Zeno",30,Externship,2,0,1,0,0,1,0,1,0
+L6607-001,Externship: Domestic Violence Prosecution,S. Kessler,31,Externship,2,1,0,1,0,1,1,1,1
+L6664-001,Externship: Federal Appellate Court,"R. Sack, V. Caldwell, B. Parker",105,Externship,1,1,1,1,0,0,0,0,1
+L6661-001,Externship: Federal Court Clerk,P. Radvany,30,Externship,1,1,0,0,1,1,0,0,1
+L6652-001,Externship: Federal Court Clerk EDNY,"N. Garaufis, N. Argentieri",100,Externship,2,0,1,0,0,0,0,1,0
+L6604-001,Externship: Immigration Law,"D. Stern, W. Elliott",100,Externship,2,0,1,0,1,1,1,0,0
+L6796-001,Externship: Low-Wage Worker,"K. Cacace, Y. Lee",30,Externship,2,1,1,1,1,0,1,0,1
+L6603-001,Externship: U.S. Attorney's Office for the Southern District Court of N.Y.,"M. Garnett, M. Gerber, M. Smith",100,Externship,2,1,0,0,1,1,1,1,0
+L6425-001,Federal Courts,C. Nelson,30,Lecture,4,0,0,0,1,1,0,1,0
+L6256-001,Federal Income Taxation,R. D'Avino,69,Lecture,4,1,1,1,1,1,0,1,0
+L6256-002,Federal Income Taxation,M. Graetz,85,Lecture,4,1,1,1,1,0,0,0,1
+L8609-001,Fighting Corruption in Sports,"P. Mavroidis, J. Rodgers",62,Lecture,2,1,0,1,1,0,0,0,0
+L6939-001,"Financial Crises, Regulatory Responses","J. Gordon, P. Bolton",37,Lecture,4,0,0,1,0,1,1,0,0
+L6205-001,Financial Statement Analysis and Interpretation,N. Bartczak,34,Lecture,3,0,1,1,1,1,0,0,0
+L6506-001,Gender Justice,K. Franke,85,Lecture,3,1,1,1,1,1,1,1,0
+L9233-001,Human Rights Clinic,"B. Hoffman, S. Knuckey, A. Moorehead",50,Clinic,4,1,0,1,0,1,0,1,1
+L6229-001,Ideas of the First Amendment,"J. Jaffer, V. Blasi",70,Lecture,4,0,0,1,1,1,1,1,1
+L9258-001,Immigrants' Rights Clinic,E. Mukherjee,57,Clinic,3,0,1,1,0,1,0,1,0
+L6250-001,Immigration Law,R. Villazor,60,Lecture,2,1,0,0,1,1,0,0,1
+L6158-001,Information Privacy,C. Long,90,Lecture,3,1,0,1,0,0,1,1,0
+L6552-001,International Commercial Arbitration,G. Bermann,50,Lecture,3,1,1,0,1,0,0,1,0
+L6269-001,International Law,M. Milanovic,90,Lecture,3,1,0,0,0,0,1,0,1
+L6560-001,Introduction to American Law,K. Thomas,89,Lecture,2,0,1,1,1,1,0,1,0
+L6560-002,Introduction to American Law,C. Sanger,29,Lecture,2,1,0,1,0,1,1,0,0
+L6273-001,"Japanese Law, Society and Economy",C. Milhaupt,70,Lecture,2,1,1,1,1,0,1,1,1
+L8079-001,Jurisprudence of War,"G. Fletcher, M. Paradis",38,Lecture,3,1,0,1,1,1,1,0,1
+L6561-001,LL.M. Legal Research and Writing,M. Shapiro,75,Lecture,2,0,0,1,0,1,0,1,0
+L6561-002,LL.M. Legal Research and Writing,J. Macleod,64,Lecture,2,1,0,0,1,1,0,0,1
+L6561-003,LL.M. Legal Research and Writing,Y. Lifshitz,40,Lecture,2,1,1,1,0,0,0,0,0
+L6561-004,LL.M. Legal Research and Writing,E. Stolzenberg,75,Lecture,2,1,0,0,1,0,1,1,0
+L6561-005,LL.M. Legal Research and Writing,S. Koh,43,Lecture,2,1,0,1,1,1,0,0,1
+L6561-006,LL.M. Legal Research and Writing,J. Gordon,61,Lecture,2,1,0,0,0,1,0,0,0
+L6561-007,LL.M. Legal Research and Writing,M. Shapiro,66,Lecture,2,1,1,1,0,0,1,1,1
+L6561-008,LL.M. Legal Research and Writing,J. Macleod,63,Lecture,2,1,1,0,1,1,0,0,0
+L6561-009,LL.M. Legal Research and Writing,Y. Lifshitz,40,Lecture,2,1,0,0,1,0,0,1,0
+L6561-010,LL.M. Legal Research and Writing,E. Stolzenberg,79,Lecture,2,0,0,1,0,0,0,1,0
+L6561-011,LL.M. Legal Research and Writing,S. Koh,40,Lecture,2,1,0,0,1,0,1,0,1
+L6561-012,LL.M. Legal Research and Writing,J. Gordon,58,Lecture,2,0,0,1,0,0,0,1,0
+L6160-001,Law in the Internet Society,E. Moglen,34,Lecture,2,1,0,1,1,1,1,1,1
+L6474-001,Law of the Political Process,J. Greene,85,Lecture,3,1,1,0,1,1,1,0,0
+L6488-001,Law of the W.T.O.,P. Mavroidis,81,Lecture,3,0,1,0,1,0,1,1,0
+L6113-001,Legal Methods,J. Ginsburg,60,Lecture,3,1,1,0,0,0,1,0,0
+L6113-002,Legal Methods,B. Harcourt,65,Lecture,3,1,1,1,1,0,0,1,0
+L6113-003,Legal Methods,P. Bobbitt,50,Lecture,3,0,1,0,0,1,1,1,1
+L6113-004,Legal Methods,M. Sovern,41,Lecture,3,1,1,1,0,0,0,0,1
+L6115-001,Legal Practice Workshop I,"T. Smith, H. Whaley",50,Lecture,2,0,0,1,1,0,0,1,1
+L6115-002,Legal Practice Workshop I,"T. Smith, H. Whaley",105,Lecture,2,1,0,0,0,0,0,1,0
+L6115-003,Legal Practice Workshop I,"A. Amend, A. Izumo",50,Lecture,2,0,0,1,1,1,1,1,1
+L6115-004,Legal Practice Workshop I,"J. Fiddelman, A. Izumo",48,Lecture,2,0,1,0,0,0,1,0,0
+L6115-005,Legal Practice Workshop I,"V. Olds, R. Witt",52,Lecture,2,1,1,0,0,0,0,1,0
+L6115-006,Legal Practice Workshop I,"G. Lebovits, M. Newman",45,Lecture,2,0,0,0,1,1,0,1,0
+L6115-007,Legal Practice Workshop I,"J. Kosman, D. Heller",50,Lecture,2,1,1,1,1,1,1,1,1
+L6115-008,Legal Practice Workshop I,"D. Elsberg, D. Neacsu",104,Lecture,2,0,1,1,1,0,0,1,1
+L6115-009,Legal Practice Workshop I,"G. Dick, A. Izumo",50,Lecture,2,0,1,1,1,0,0,1,0
+L6115-010,Legal Practice Workshop I,"E. Epstein, M. Newman",42,Lecture,2,0,1,0,1,0,0,1,0
+L6115-011,Legal Practice Workshop I,"E. Bernhardt, D. Neacsu",101,Lecture,2,1,0,0,0,0,0,0,1
+L6115-012,Legal Practice Workshop I,"A. Scherzer, D. Neacsu",74,Lecture,2,0,1,0,1,1,0,0,0
+L6115-013,Legal Practice Workshop I,"S. Swan, H. Whaley",105,Lecture,2,1,1,1,1,1,1,0,1
+L6115-014,Legal Practice Workshop I,"E. Askanase, D. Neacsu",30,Lecture,2,1,0,0,1,1,0,1,1
+L6115-015,Legal Practice Workshop I,"C. Hayes-Deats, M. Newman",35,Lecture,2,0,0,0,1,0,1,0,1
+L6115-016,Legal Practice Workshop I,"A. McCamphill, R. Witt",40,Lecture,2,0,0,1,1,0,0,1,0
+L6115-017,Legal Practice Workshop I,"Y. Lee, D. Heller",55,Lecture,2,0,0,1,1,0,0,1,1
+L6115-018,Legal Practice Workshop I,"S. Statsinger, R. Witt",83,Lecture,2,1,1,0,0,0,0,0,1
+L6115-019,Legal Practice Workshop I,"D. Berger, D. Neacsu",66,Lecture,2,0,1,0,0,0,0,0,0
+L6115-020,Legal Practice Workshop I,"J. Jimenez, H. Whaley",45,Lecture,2,0,1,0,0,0,1,1,0
+L6115-021,Legal Practice Workshop I,"B. Schoepp-Wong, R. Witt",60,Lecture,2,1,0,1,1,0,1,0,1
+L6115-022,Legal Practice Workshop I,"A. Crowell, D. Heller",45,Lecture,2,1,1,0,1,0,0,1,0
+L6115-023,Legal Practice Workshop I,"D. Louk, M. Newman",53,Lecture,2,1,0,1,1,1,0,1,1
+L6115-024,Legal Practice Workshop I,"D. Louk, M. Newman",50,Lecture,2,0,0,1,1,1,0,1,0
+L6115-025,Legal Practice Workshop I,"J. Dillon, D. Heller",49,Lecture,2,0,0,1,0,1,1,1,0
+L6115-026,Legal Practice Workshop I,"J. Dillon, D. Heller",47,Lecture,2,0,1,0,0,1,0,1,1
+L6115-027,Legal Practice Workshop I,"S. Bernhardt, H. Whaley",61,Lecture,2,1,1,0,1,1,1,1,0
+L6115-028,Legal Practice Workshop I,"A. Izumo, E. Kreiner",56,Lecture,2,1,1,1,1,1,0,1,1
+L6270-001,Legislation,K. Judge,90,Lecture,3,1,1,0,0,1,0,0,0
+L9256-001,Mass Incarceration Clinic,"M. Quattlebaum, B. Dignam",75,Clinic,3,1,1,1,0,1,0,0,0
+L6220-001,Mass Torts,W. Ohlemeyer,50,Lecture,3,0,0,0,1,0,0,1,1
+L9239-001,Mediation Clinic,"A. Carter, S. Watts",50,Clinic,4,0,1,1,0,0,0,1,0
+L6416-001,Partnership Taxation,S. Rosow,30,Lecture,3,0,1,1,1,0,0,1,1
+L6274-001,Professional Responsibility,J. Snider,60,Lecture,2,1,1,0,0,1,0,0,1
+L6274-002,Professional Responsibility,W. Simon,50,Lecture,2,0,1,1,0,1,0,1,0
+L6367-001,Professional Responsibility for the Transactional Lawyer,S. Tepper,84,Lecture,3,0,0,1,1,0,0,0,1
+L6359-001,Professional Responsibility in Criminal Law,P. Cross-Goldenberg,42,Lecture,3,0,1,0,1,1,0,1,1
+L6116-001,Property,T. Merrill,87,Lecture,4,1,0,1,0,1,1,0,1
+L8289-001,"Reading Group on Contemporary Legal Issues in Africa: Economy, Politics and Identity",F. Ssekandi,55,Discussion,1,1,0,0,0,1,0,1,0
+L6927-001,Real Estate Development,"M. Gold, M. Suarez",60,Lecture,2,1,0,1,0,0,1,1,0
+L6483-001,Real Estate Transactions,V. DiLorenzo,60,Lecture,3,1,0,1,0,0,1,0,0
+L6518-001,Rebuilding Government,C. Sabel,107,Lecture,2,1,1,0,0,0,1,0,1
+L6245-001,Remedies,R. Brooks,40,Lecture,3,0,1,0,0,1,0,0,0
+L9205-002,S. Adolescence,J. Spinak,33,Clinic,2,1,1,1,1,0,1,0,1
+L8072-001,S. Advanced Constitutional Law: Reading the Constitution,A. Amar,54,Seminar,2,1,1,1,1,0,0,0,0
+L9613-001,S. Advanced Federal Prison Litigation,B. Dignam,95,Seminar,2,0,1,0,0,0,0,1,0
+L8667-001,S. Advocacy in Theory and Practice,M. Kurtz,34,Seminar,2,0,0,1,0,1,0,1,1
+L8082-001,S. American Jurisprudence:  Judicial Interpretation and The Role of Courts,R. Sullivan,25,Seminar,2,1,1,1,0,0,1,0,1
+L9271-001,"S. Authors, Artists, and Performers",J. Besek,40,Seminar,2,1,0,0,1,0,0,0,0
+L9453-001,S. Biblical Jurisprudence,"G. Fletcher, S. Berman",30,Seminar,2,0,1,1,0,1,1,0,1
+L9867-001,S. Big Case: Tactics and Strategy,R. Weiner,74,Simulations,2,1,0,0,1,0,1,1,0
+L9080-001,S. Black Letter Law / White Collar Crime,"J. Coffee, Jr., J. Rakoff",50,Seminar,2,0,1,1,1,1,1,1,0
+L8231-001,"S. Capital Markets: Developments, Structure and Policies",M. Eisenberg,69,Seminar,2,1,1,0,0,0,1,1,0
+L8124-001,S. Challenges to Prosperity: Rule of Law and Citizen Security in Latin America and the Caribbean,J. Reynoso,100,Seminar,2,0,1,0,0,0,1,1,0
+L9331-001,S. Church and State,K. Greenawalt,30,Seminar,3,1,0,0,0,0,1,0,0
+L8997-001,S. Civil Liberties and the Response to Terrorism,"S. Shapiro, M. Waxman",30,Seminar,2,0,1,0,1,1,0,1,1
+L8155-001,S. Civil Rights Lawyering in the Modern Era: Theory and Practice,M. Perez,54,Seminar,2,0,1,1,1,0,1,0,1
+L8290-001,S. Civil Rights Litigation,"B. Dignam, F. Heydari",70,Seminar,2,1,1,0,0,1,0,1,0
+L8479-001,S. Comparative Administrative Law,R. Williams,96,Seminar,2,1,0,1,0,0,0,0,0
+L8229-001,S. Comparative Corporate Capitalism,R. Gilson,30,Seminar,2,1,1,1,0,0,1,0,1
+L9702-001,S. Constitutional Governance Practicum,"J. Bulman-Pozen, G. Metzger, O. Johnson",50,Seminar,3,1,0,1,1,0,0,0,0
+L8866-001,S. Contemporary Critical Thought,"B. Harcourt, J. Rodriguez-Velasco",91,Seminar,1,0,0,1,0,1,1,1,0
+L9467-001,"S. Contracts, Collaboration and Interpretation",C. Sabel,30,Seminar,3,1,1,0,0,0,0,1,0
+L8614-001,S. Corporate Governance,"C. Nathan, S. Liss",25,Seminar,2,0,1,1,1,1,1,0,0
+L8163-001,S. Counseling the Digital Innovator,"J. Halvey, B. Reese",69,Simulations,2,1,0,0,0,0,0,1,0
+L8989-001,"S. Cybersecurity: Policy, Legal and Technical Aspects",M. Waxman,100,Seminar,2,0,0,1,1,1,0,1,0
+L8183-001,S. Deals Litigation,"W. Savitt, R. McLeod",30,Simulations,2,0,1,0,1,1,1,1,1
+L9253-003,S. Deals Workshop,J. McHugh,45,Simulations,2,0,0,1,0,1,0,1,0
+L9253-002,S. Deals Workshop: Dealmaking in Mergers and Acquisitions,"I. Kirman, T. Norwitz",50,Simulations,2,0,1,1,0,0,0,1,1
+L9253-001,S. Deals Workshop: Mergers & Acquisition Transactions,"K. Veeraraghavan, S. Kotran",25,Simulations,2,0,1,1,0,1,1,0,0
+L9108-001,S. Doctoral Workshop,M. Barenberg,34,Seminar,2,0,1,1,1,1,0,1,1
+L6923-001,S. Drafting and Negotiating Commercial Real Estate Documents,D. Bregman,104,Seminar,3,0,0,1,1,0,1,1,0
+L8014-001,S. Empirical Studies Lab,J. Fagan,30,Simulations,3,1,1,1,0,0,0,1,0
+L8453-001,S. Energy Industry Restructuring,R. Grey,65,Seminar,2,0,0,1,1,0,1,1,0
+L8245-001,S. Entrepreneurship,"S. Davis, J. Kaplan",58,Simulations,2,1,0,0,1,1,0,1,0
+L8362-001,S. Environmental Issues in Business Transactions,"K. Rivlin, M. Morreale",35,Simulations,2,0,0,1,0,0,1,0,1
+L8031-001,S. Foreign Direct Investment and Public Policy,K. Sauvant,36,Seminar,2,1,1,0,1,1,1,1,1
+L9252-001,"S. Human Rights, Law and Development Workshop",E. Rekosh,66,Simulations,2,1,0,0,1,1,1,0,1
+L9323-001,S. Intellectual Property in the Digital Age,H. Parness,64,Seminar,2,1,0,1,1,0,0,1,1
+L8147-001,S. International Arbitration and EU Law,G. Bermann,30,Seminar,2,0,1,1,0,0,0,1,0
+L9065-001,S. International Banking and Financial Law,"P. Kourides, P. Lee",71,Seminar,2,0,1,1,1,1,0,0,1
+L8942-001,"S. International Criminal Courts: Progress, Problems and Prospects",R. Dicker,55,Seminar,2,0,0,1,1,0,1,1,0
+L8133-001,S. International Investment Arbitration,"K. Duggal, I. Laird",38,Seminar,2,1,1,1,1,1,1,0,0
+L8793-001,S. Juvenile Crime and Juvenile Justice,"E. Scott, J. Fagan",70,Seminar,3,0,1,0,1,0,0,0,0
+L9436-001,S. Korean Legal System in the Global Economy,J. Roh,34,Seminar,2,0,0,0,1,0,1,0,0
+L8612-001,S. Law and Economics of Contracts,"R. Brooks, P. Bolton",95,Seminar,2,0,0,0,0,1,1,0,0
+L8149-001,"S. Law, Justice, and Reflective Practice",E. Emens,90,Simulations,3,0,1,1,1,0,0,1,0
+L9555-001,S. Legal Interpretation,K. Greenawalt,70,Seminar,3,0,0,1,0,0,0,1,1
+L9563-001,S. Mental Health Law,R. Levy,30,Seminar,2,0,0,0,0,1,1,1,1
+L8277-001,S. Mental Illness and Criminal Defense,"S. Bolser, D. Freedman",36,Seminar,2,0,0,1,1,1,1,1,1
+L8890-001,S. National Security Investigations and Prosecutions,"B. McGuire, R. Zabel",34,Seminar,2,1,1,1,0,1,0,0,1
+L6330-001,S. Native American Law,S. McSloy,50,Seminar,2,0,0,1,0,0,0,0,0
+L8803-001,S. Native Peacemaking,S. Watts,109,Seminar,2,0,1,0,1,1,1,0,0
+L8036-001,S. Natural Resources Law,M. Burger,26,Seminar,2,1,1,1,0,0,1,1,1
+L8115-002,S. Negotiation Workshop,D. Serviansky,65,Simulations,3,1,1,1,0,1,0,1,1
+L8115-003,S. Negotiation Workshop,S. Rabinowitz,49,Simulations,3,0,0,1,1,0,0,1,1
+L8115-004,S. Negotiation Workshop,D. Jansenson,45,Simulations,3,0,0,1,1,0,0,1,0
+L8115-005,S. Negotiation Workshop,M. Fowler-Williams,29,Simulations,3,1,0,0,0,0,1,1,1
+L8115-006,S. Negotiation Workshop,P. Woodin,26,Simulations,3,0,0,1,1,1,0,1,1
+L9328-001,S. Political Theory and the 1st Amendment,V. Blasi,94,Seminar,3,1,1,0,1,0,0,0,0
+L9094-001,S. Problems in Political Philosophy,J. Raz,105,Seminar,3,0,1,0,0,0,1,1,1
+L8016-001,S. Public Education Policy Seminar and Practicum,"J. Liebman, E. Chu",34,Seminar,5,1,1,1,1,1,0,1,0
+L9827-001,"S. Schools, Courts and Civic Participation",M. Rebell,50,Seminar,2,0,1,0,1,0,0,1,1
+L8600-001,S. Science and the Courts,J. Rakoff,30,Seminar,2,0,1,0,1,0,1,0,0
+L8346-001,S. Seminar on International Trade Regulation Issues,"M. Janow, P. Mavroidis",31,Seminar,2,1,1,1,0,0,0,0,0
+L8887-001,S. September 11 and the Rights of Non-Citizens,L. Gelernt,65,Seminar,2,1,0,0,1,0,1,0,0
+L8661-001,S. Supreme Court,"J. Lefkowitz, M. Shumsky",30,Seminar,2,0,1,1,1,0,1,0,1
+L8996-001,S. The Constitution,A. Amar,70,Seminar,2,0,1,0,0,1,0,1,0
+L8607-001,S. The Psychology of Racial Justice and Policing,P. Goff,46,Seminar,2,1,0,0,0,1,1,0,1
+L8877-001,S. Thinking Like a Litigator,"F. Magaziner, K. Massey",85,Simulations,2,1,1,1,0,1,0,1,0
+L9068-001,S. Topics in Jewish Law,S. Berman,60,Seminar,2,1,0,1,0,1,1,0,0
+L9175-001,S. Trial Practice,G. Heatherly,90,Simulations,2,0,1,0,1,1,1,1,0
+L9175-002,S. Trial Practice,P. Jones,105,Simulations,2,1,0,0,0,0,1,1,0
+L9175-003,S. Trial Practice,P. Radvany,35,Simulations,2,0,0,1,0,1,1,1,1
+L8286-001,S. Victims' Rights,G. Fletcher,93,Seminar,2,0,1,0,1,0,0,0,1
+L6423-001,Securities Regulation,"J. Coffee, Jr.",43,Lecture,3,1,0,0,1,1,1,0,0
+L9303-001,Strategic International Commercial Transactions,M. Vecchio,50,Lecture,2,1,0,0,0,1,0,0,0
+L6549-001,Terror and Consent,P. Bobbitt,38,Lecture,3,0,1,0,1,0,1,0,1
+L6510-001,Topics in Education Law,J. Heubert,60,Lecture,2,1,0,1,0,0,1,0,0
+L6118-001,Torts,B. Liebman,37,Lecture,4,0,1,0,1,0,1,1,0
+L6118-002,Torts,K. Underhill,42,Lecture,4,1,0,0,1,1,0,0,1
+L6294-001,Trusts and Estates,A. Rapaczynski,88,Lecture,4,0,1,0,0,0,1,1,0
+L6674-001,Workshop in Briefcraft,"I. Strauss, A. Rodriguez",30,Lecture,2,1,1,1,0,1,1,0,1

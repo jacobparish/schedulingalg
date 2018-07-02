@@ -5,6 +5,8 @@ public class Main {
 		
 		ArrayList<Course> courses = CSVReader.loadCourses("data/course-search-results.csv");
 		
+		System.out.println(courses);
+		
 	}
 }
 

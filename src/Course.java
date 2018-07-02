@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Course {
 	private String id;
-	private ArrayList<Professor> profs;
+	private ArrayList<String> profs;
 	private ArrayList<Time> timePrefs;
 	private ArrayList<Day> days;
 	private int enrollment;
@@ -16,7 +16,7 @@ public class Course {
 		MORNING, NOON, AFTERNOON
 	}
 
-	public Course(String id, ArrayList<Professor> profs, ArrayList<Time> timePrefs, ArrayList<Day> days,
+	public Course(String id, ArrayList<String> profs, ArrayList<Time> timePrefs, ArrayList<Day> days,
 			int enrollment) {
 		this.id = id;
 		this.profs = profs;
@@ -29,7 +29,7 @@ public class Course {
 		return id;
 	}
 
-	public ArrayList<Professor> getProfs() {
+	public ArrayList<String> getProfs() {
 		return profs;
 	}
 

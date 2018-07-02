@@ -58,6 +58,7 @@ public class CSVReader {
 		return courses;
 	}
 
+	// This method deals with a few properties that have commas within quotes :/
 	private static String readThroughQuotes(Scanner in) {
 		String s = in.next();
 		while (StringUtils.countMatches(s, "\"") == 1) {
@@ -72,7 +73,7 @@ public class CSVReader {
 		Scanner roomsFileIn = new Scanner(new File(filePath));
 		roomsFileIn.useDelimiter(",|\\n?\\r");
 
-		// no header
+		// This file doesn't have a header
 
 		while (roomsFileIn.hasNextLine()) {
 			String id = roomsFileIn.next();

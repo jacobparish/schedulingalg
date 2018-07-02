@@ -6,5 +6,5 @@ public class Room {
 	public Room(String id, int capacity){
 		this.id = id;
 		this.capacity = capacity;
-  }
+	}
 }

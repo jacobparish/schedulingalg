@@ -7,7 +7,7 @@ public class Course {
 	private ArrayList<Day> days;
 	private int enrollment;
 	private Room room;
-	private ArrayList<Time> times;
+	private Time time;
 
 	public enum Day {
 		MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY
@@ -54,11 +54,11 @@ public class Course {
 		this.room = room;
 	}
 	
-	public ArrayList<Time> getTimes() {
-		return times;
+	public Time getTime() {
+		return time;
 	}
 
-	public void setTimes(ArrayList<Time> times) {
-		this.times = times;
+	public void setTime(Time time) {
+		this.time = time;
 	}
 }

@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 
 public class Course {
@@ -7,6 +6,7 @@ public class Course {
 	private ArrayList<Time> timePrefs;
 	private ArrayList<Day> days;
 	private int enrollment;
+	private Room room;
 
 	public enum Day {
 		MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY
@@ -43,5 +43,13 @@ public class Course {
 
 	public int getEnrollment() {
 		return enrollment;
+	}
+
+	public Room getRoom() {
+		return room;
+	}
+
+	public void setRoom(Room room) {
+		this.room = room;
 	}
 }

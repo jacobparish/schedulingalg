@@ -14,7 +14,8 @@ public class Course {
 	public Course() {
 		this("", "");
 	}
-	public Course(String pro, String nam, int siz, String day) {
+	public Course(String courseProfessor, String courseName, int courseSize, String courseDaysOfTheWeek, int courseTimePreference, String courseRoom, int courseTime) {
+		this.professor = courseprofessor;
 		
 	}
 		

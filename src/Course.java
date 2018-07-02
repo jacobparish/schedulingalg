@@ -3,11 +3,11 @@ import java.util.ArrayList;
 public class Course {
 	private String id;
 	private ArrayList<String> profs;
-	private ArrayList<Time> timePrefs;
+	private ArrayList<Time> timePrefs; // times of day preferred by instructors
 	private ArrayList<Day> days;
 	private int enrollment;
-	private Room room;
-	private ArrayList<Time> times;
+	private Room room; // room assigned to the course
+	private ArrayList<Time> times; // times of day assigned to the course
 
 	public enum Day {
 		MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY

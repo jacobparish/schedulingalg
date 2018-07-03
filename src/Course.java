@@ -25,6 +25,16 @@ public class Course implements Comparable<Course> {
 		this.enrollment = enrollment;
 	}
 
+	public Course(Course old, Time time, Room room) {
+		this.id = old.getId();
+		this.profs = old.getProfs();
+		this.timePrefs = old.getTimePrefs();
+		this.days = old.getDays();
+		this.enrollment = old.getEnrollment();
+		this.time = time;
+		this.room = room;
+	}
+
 	public String getId() {
 		return id;
 	}

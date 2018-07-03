@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Course {
+public class Course implements Comparable<Course> {
 	private String id;
 	private String[] profs;
 	private ArrayList<Time> timePrefs;
@@ -17,8 +17,7 @@ public class Course {
 		MORNING, NOON, AFTERNOON
 	}
 
-	public Course(String id, String[] profs, ArrayList<Time> timePrefs, ArrayList<Day> days,
-			int enrollment) {
+	public Course(String id, String[] profs, ArrayList<Time> timePrefs, ArrayList<Day> days, int enrollment) {
 		this.id = id;
 		this.profs = profs;
 		this.timePrefs = timePrefs;
@@ -53,12 +52,23 @@ public class Course {
 	public void setRoom(Room room) {
 		this.room = room;
 	}
-	
+
 	public Time getTime() {
 		return time;
 	}
 
 	public void setTime(Time time) {
 		this.time = time;
+	}
+
+	@Override
+	public int compareTo(Course o) {
+		if (this.getEnrollment() < o.getEnrollment()) {
+			return 1;
+		} else if (this.getEnrollment() > o.getEnrollment()) {
+			return -1;
+		} else {
+			return 0;
+		}
 	}
 }

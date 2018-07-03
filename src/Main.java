@@ -3,40 +3,43 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Main {
+	
+	// Create your arrays of rooms and courses
 	private static ArrayList<Room> rooms;
 	private static ArrayList<Course> courses;
 
 	public static void main(String[] args) {
 		try {
-			init();
+			importing();
 		} catch (FileNotFoundException e) {
-			System.err.println("yo some shit went wrong");
+			System.err.println("There was an error reading the CSV file.");
 			e.printStackTrace();
 			System.exit(1);
 		}
 		
 		commence();
+		
+		
 	}
-
-	private static void init() throws FileNotFoundException {
+	
+	// Import rooms and courses from a CSV file
+	private static void importing() throws FileNotFoundException {
 		rooms = CSVHandler.loadRooms("data/rooms.csv");
 		courses = CSVHandler.loadCourses("data/course-search-results.csv");
 
-		// sorts the lists in descending order :)
+		// Sort lists in descending order
 		Collections.sort(rooms);
 		Collections.sort(courses);
-		
-		
 	}
 
-	// no comments here, but have a smiley face :)
+	// Searching Algorithm
 	private static void commence() {
 		while (true) {
 			
 		}
 	}
 
-	
+	// 
 	private static void swiggle() {
 		
 	}

@@ -92,7 +92,7 @@ public class FileHandler {
 	}
 
 	// this method saves the file for later use :)
-	public static void saveSchedule(Schedule s) {
+	public static void saveSchedule(Schedule s, String filePath) {
 		JSONObject sObj = new JSONObject();
 		JSONArray courses = new JSONArray();
 
@@ -116,7 +116,7 @@ public class FileHandler {
 
 		sObj.put("schedule", courses);
 
-		try (FileWriter file = new FileWriter("data/schedule-out.json")) {
+		try (FileWriter file = new FileWriter(filePath)) {
 			file.write(sObj.toJSONString());
 			file.flush();
 		} catch (IOException e) {

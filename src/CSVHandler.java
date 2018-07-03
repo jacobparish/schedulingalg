@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class CSVReader {
+public class CSVHandler {
 	public static ArrayList<Course> loadCourses(String filePath) throws FileNotFoundException {
 		ArrayList<Course> courses = new ArrayList<Course>();
 
